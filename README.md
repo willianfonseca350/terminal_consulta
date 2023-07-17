@@ -1,4 +1,4 @@
-# Terminal de Consulta
+# Terminal de Consulta Gertec
 Terminal de Consulta gertec modelo 506E
 
 Link documentação: <br/>
