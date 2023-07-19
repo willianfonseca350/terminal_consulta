@@ -1,5 +1,7 @@
 # Terminal de Consulta Gertec
-Terminal de Consulta gertec modelo 506E
+Terminal de Consulta gertec modelo 506E<br/>
+Produto não tem uma boa documetação, o site é muito confuso e traz exemplos desatualizados.
+Para encontrar a documentação correta foi preciso entrar em contato via whats. 
 
 Link documentação: <br/>
 https://www.gertec.com.br/download-center/?categoria=automacao-comercial&subcategoria=busca-precos)<br/><br/>
