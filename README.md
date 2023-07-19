@@ -9,3 +9,7 @@ https://www.gertec.com.br/download-center/?categoria=automacao-comercial&subcate
 Exemplo simples de utilização com retorno de consulta<br/>
 A configuração inicial deve ser feita por meio do aplicativo de celular **Gertec – Terminal de Consulta**<br/>
 Mais detalhes no manual do usuário em PDF
+
+<br/>
+<br/>
+Special Thanks to ChatGPT 🤖
