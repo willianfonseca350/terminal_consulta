@@ -1,6 +1,7 @@
 # Terminal de Consulta Gertec
 Terminal de Consulta gertec modelo 506E<br/>
 Produto não tem uma boa documetação, o site é muito confuso e traz exemplos desatualizados.
+Suporte ao desenvolvedor demorado e de baixa qualidade.https://github.com/rubgithub/terminal_consulta/blob/main/README.md
 Para encontrar a documentação correta foi preciso entrar em contato via whats. 
 
 Link documentação: <br/>
